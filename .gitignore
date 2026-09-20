@@ -5,6 +5,9 @@
 !.env.sample
 *.env
 
+# Local browser configuration (contains project-specific Supabase values)
+supabase-config.js
+
 # Dependencies and generated output
 node_modules/
 dist/
